@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>53626140681-9q02i95nm70bsful3ecj4hc05n2ea8dd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.53626140681-9q02i95nm70bsful3ecj4hc05n2ea8dd</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAAsvvXnNN3zmz7EPwpMvkrr6QFBeMm0rU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>53626140681</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>20521854</string>
+	<key>PROJECT_ID</key>
+	<string>walkthroughapp-a32ed</string>
+	<key>STORAGE_BUCKET</key>
+	<string>walkthroughapp-a32ed.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:53626140681:ios:306eba9b385ccad99660d8</string>
+	<key>DATABASE_URL</key>
+	<string>https://walkthroughapp-a32ed-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
